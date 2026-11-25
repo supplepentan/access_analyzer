@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python caches & build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Test caches
+.pytest_cache/
+
+# Analysis outputs & local Access databases
+output/
+*.accdb
+*.mdb
+*.laccdb
+*.ldb
